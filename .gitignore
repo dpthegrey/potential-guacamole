@@ -1,0 +1,10 @@
+# javascript dependencies
+node_modules
+
+# Text editor configs
+.idea
+.vscode
+.eslintcache
+
+# Mac Os file
+.DS_Store
